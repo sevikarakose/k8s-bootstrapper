@@ -6,6 +6,7 @@
         "docr",
         "doctl",
         "doks",
+        "istio",
         "kubeconfig",
         "kyverno",
         "pdkey",

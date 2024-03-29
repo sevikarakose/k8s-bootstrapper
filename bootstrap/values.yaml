@@ -6,8 +6,10 @@ bots:
   enable: false
 guestbook:
   enable: false
+istio:
+  enable: true
 kyverno:
-  enable: false  
+  enable: true  
 logging:
   enable: false
 observability:

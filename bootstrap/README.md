@@ -28,6 +28,8 @@ bots:
   enable: false
 guestbook:
   enable: false
+istio:
+  enable: true
 kyverno:
   enable: false  
 logging:
